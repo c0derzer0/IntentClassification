@@ -12,4 +12,4 @@ IntentClassification.py encapsulates the pipeline created in IntentClassificatio
 
 IntentClassificationWithClassNotebook.ipynb imports the IntentClassification.py and uses its class to perform the intent classification using BERT.
 
-Requirements.txt contains the packages and versions needed for running this repo
+requirements.txt contains the packages and versions needed for running this repo
